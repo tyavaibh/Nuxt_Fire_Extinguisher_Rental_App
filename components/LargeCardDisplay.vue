@@ -24,7 +24,7 @@
 
 <style scoped>
 .container {
-    margin-top: -9rem;
+    margin-top: 1rem;
     /* border: 2px solid black; */
     min-height: 20rem;
 }

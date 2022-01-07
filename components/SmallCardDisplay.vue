@@ -23,7 +23,8 @@
 
 <style scoped>
  .container {
-        padding: 2rem 0
+        padding: 2rem 0;
+        margin-top: 4rem;
     }
     .header {
         font-weight: 700;
